@@ -43,7 +43,7 @@ fn main() -> ! {
     };
     let mut data: RGB8;
     // let level = 255;
-    let level = 0;
+    let level = 100;
 
     loop {
         // Iterate over the rainbow!
